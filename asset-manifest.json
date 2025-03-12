@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gpu_shop/static/css/main.7e891f8a.css",
-    "main.js": "/gpu_shop/static/js/main.28bc9ef2.js",
+    "main.js": "/gpu_shop/static/js/main.82b6855f.js",
     "static/js/453.45a20038.chunk.js": "/gpu_shop/static/js/453.45a20038.chunk.js",
     "index.html": "/gpu_shop/index.html",
     "main.7e891f8a.css.map": "/gpu_shop/static/css/main.7e891f8a.css.map",
-    "main.28bc9ef2.js.map": "/gpu_shop/static/js/main.28bc9ef2.js.map",
+    "main.82b6855f.js.map": "/gpu_shop/static/js/main.82b6855f.js.map",
     "453.45a20038.chunk.js.map": "/gpu_shop/static/js/453.45a20038.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e891f8a.css",
-    "static/js/main.28bc9ef2.js"
+    "static/js/main.82b6855f.js"
   ]
 }
